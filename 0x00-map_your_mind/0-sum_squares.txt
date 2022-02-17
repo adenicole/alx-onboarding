@@ -1,0 +1,17 @@
+// STEP 1: START
+
+// STEP 2: Using javascipt Create a function that sums up the squares
+
+// STEP 3: Given inputed squares to be summed = n
+
+// STEP 4: Initialize sum = 0, i = 1
+
+// STEP 5: repeat step 5 to 6 till 1<=num
+
+// STEP 6: sum = sum + (i*i)
+
+// STEP 7: i = i + 1
+
+// STEP 8: returns and output this lists of the sum of the sqaured numbers.
+
+//  STEP 9 : STOP
